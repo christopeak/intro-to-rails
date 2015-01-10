@@ -63,7 +63,7 @@ Class 10: March 12
 *Emails. Files. Deployment. Continue culminating project.*
  
 ####**Student Assessment**
-Students must attend at least 80% of the sessions to pass the course.  There will be eight homework assignments. Every homework assignment must be turned in. There is no penalty for late work, but nothing will not be accepted after Sunday, March 15. Assignments receive either a “pass” or “resubmit”. All eight assignments must be passed in order to pass the course.
+Students must attend at least 80% of the sessions to pass the course.  There will be eight homework assignments. Every homework assignment must be turned in. There is no penalty for late work, but nothing will be accepted after Sunday, March 15. Assignments receive either a “pass” or “resubmit”. All eight assignments must be passed in order to pass the course.
 
 ####**Policies and Values**
 Students are encouraged to discuss and help others with homework assignments. However, with the exception of pair programming assignments, each student must turn in their own work. While pair programming, students will give constructive criticism in a kind and generous manner.

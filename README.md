@@ -27,7 +27,7 @@ The first 1.5 to 2 hours of each class will be devoted to learning and practicin
 
 ####**Materials**
 * Your computer of choice.  Linux and Mac machines are preferred.
-* 200 4x6 (or larger) index cards.
+* 200 4x6 index cards.
 * A pen.
 
 ####**Topics**

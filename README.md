@@ -54,7 +54,7 @@ Class 7: February 19
 *Security. Authentication. User Data.*
 
 Class 8: February 26  
-Pair Programming. Begin culminating project.*
+*Pair Programming. Begin culminating project.*
 
 Class 9: March 5  
 *Javascript and APIs. Continue culminating project.*

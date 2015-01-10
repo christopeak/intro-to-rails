@@ -3,7 +3,7 @@
 RUBY CP210  
 Certificate in Ruby  
 Puget Sound Plaza, Room 508  
-6pm to 9pm  
+Thursdays, 6pm to 9pm  
 
 ####**Instructor**
 Mel Quark  

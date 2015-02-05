@@ -7,7 +7,7 @@ Thursdays, 6pm to 9pm
 
 ####**Instructor**
 Mel Quark  
-mel.quark@gmail.com
+mel period quark at gmail dot com
 
 ####**Office Hours**
 Sundays, 3-7pm at Wayward Coffeehouse (65th and Roosevelt)

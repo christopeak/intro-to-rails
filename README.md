@@ -39,31 +39,31 @@ Class 2: January 15
 *Workflow. Views. Erb. A simple controller. Intro to Routes. The local server.*
 
 Class 3: January 22  
-*Models. Tests.*
+*Models. Active Record*
 
 Class 4: January 29  
-*Databases. Active Record.*
+*Unit tests. Migrations.*
 
 Class 5: February 5  
-*Controllers and Routes.*
+*Testing inside of rails.*
 
 Class 6: February 12  
-*Application Data. Reading and evaluating other people’s code.*
+*Controllers. Routes. Application Data.*
 
 Class 7: February 19  
-*Security. Authentication. User Data.*
+*Pair Programming. Reading and evaluating other people’s code.*
 
 Class 8: February 26  
-*Pair Programming. Begin culminating project.*
+*Security. Authentication. User Data.*
 
 Class 9: March 5  
-*Javascript and APIs. Continue culminating project.*
+*Javascript and APIs.*
 
 Class 10: March 12  
-*Emails. Files. Deployment. Continue culminating project.*
+*Emails. Files. Deployment.*
  
 ####**Student Assessment**
-Students must attend at least 80% of the sessions to pass the course.  There will be eight homework assignments. Every homework assignment must be turned in. There is no penalty for late work, but nothing will be accepted after Sunday, March 15. Assignments receive either a “pass” or “resubmit”. All eight assignments must be passed in order to pass the course.
+Students must attend at least 80% of the sessions to pass the course.  There will be seven homework assignments. Every homework assignment must be turned in. There is no penalty for late work, but nothing will be accepted after Sunday, March 15. Assignments receive either a “pass” or “resubmit”. All seven assignments must be passed in order to pass the course.
 
 ####**Policies and Values**
 Students are encouraged to discuss and help others with homework assignments. However, with the exception of pair programming assignments, each student must turn in their own work. While pair programming, students will give constructive criticism in a kind and generous manner.

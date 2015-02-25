@@ -51,10 +51,10 @@ Class 6: February 12
 *Controllers. Routes. Application Data.*
 
 Class 7: February 19  
-*Pair Programming. Reading and evaluating other people’s code.*
+*lab session*
 
 Class 8: February 26  
-*Security. Authentication. User Data.*
+*Security. Authentication. User Data. reading other people's code*
 
 Class 9: March 5  
 *Javascript and APIs.*

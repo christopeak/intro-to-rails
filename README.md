@@ -60,7 +60,7 @@ Class 9: March 5
 *Javascript and APIs.*
 
 Class 10: March 12  
-*Emails. Files. Deployment.*
+*Rake. Emails. Files. Deployment.*
  
 ####**Student Assessment**
 Students must attend at least 80% of the sessions to pass the course.  There will be seven homework assignments. Every homework assignment must be turned in. There is no penalty for late work, but nothing will be accepted after Sunday, March 15. Assignments receive either a “pass” or “resubmit”. All seven assignments must be passed in order to pass the course.
